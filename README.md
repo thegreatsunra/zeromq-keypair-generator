@@ -1,6 +1,6 @@
 # zeromq-keypair-generator
 
-> Public/private key pair generator for ZeroMQ
+> Public/secret key pair generator for ZeroMQ
 
 ## Getting started
 

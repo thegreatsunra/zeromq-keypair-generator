@@ -1,6 +1,6 @@
 {
   "name": "zeromq-keypair-generator",
-  "description": "Public/private key pair generator for ZeroMQ",
+  "description": "Public/secret key pair generator for ZeroMQ",
   "version": "0.0.0",
   "homepage": "https://github.com/thegreatsunra/zeromq-keypair-generator",
   "repository": {
