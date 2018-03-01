@@ -1,0 +1,25 @@
+{
+  "name": "zeromq-keypair-generator",
+  "description": "Public/private key pair generator for ZeroMQ",
+  "version": "0.0.0",
+  "author": "Dane Petersen <thegreatsunra@gmail.com>",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Dane Petersen",
+      "email": "thegreatsunra@gmail.com",
+      "url": "https://github.com/thegreatsunra"
+    }
+  ],
+  "engines": {
+    "node": ">= 8.1.0",
+    "npm": ">= 5.0.3"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "main": "index.js",
+  "scripts": {
+  }
+}
