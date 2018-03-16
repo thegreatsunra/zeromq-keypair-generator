@@ -24,10 +24,13 @@ node index.js
 This will produce console output that resembles the following:
 
 ```bash
-Generating a new ZeroMQ public/secret key pair:
+Generated a new ZeroMQ public/secret key pair:
 
-{ public: '3EzF1:n(ucafo?#A-YI#T):sFllm(>Jctsu!DcEL',
-  secret: 'dMeg4AU4i2A^={>ZtAa/XL&$.UhfT=ThLs3G/V^u' }
+PUBLIC KEY
+XH{U+KUI&$K#3d(82KiheCrZRueRR[8!O-aM){X>
+
+SECRET/PRIVATE KEY
+)lex$SV:LP3*p5tr/yZ0Wwe%-2[}tp/?bUDq%a-T
 ```
 
 ## License
